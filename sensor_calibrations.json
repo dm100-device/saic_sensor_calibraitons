@@ -232,7 +232,7 @@
         "width": 1280,
         "height": 960,
         "fov": 92.5,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.3354,
           0.1083,
@@ -271,7 +271,7 @@
         "width": 1280,
         "height": 960,
         "fov": 92.5,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.3405,
           0.1133,
@@ -310,7 +310,7 @@
         "width": 1280,
         "height": 960,
         "fov": 92.5,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.3431,
           0.1192,
@@ -345,11 +345,11 @@
       {
         "name": "SAIC_surround_camera_front",
         "type": "camera",
-        "topic": "/SAIC_surround_camera_front/compressed",
+        "topic": "SAIC_surround_camera_front",
         "width": 1280,
         "height": 960,
         "fov": 190,
-        "model": "omini-directional",
+        "model": "omni-directional",
         "distortions": [
           0.12126487514143602,
           -0.005807907453767504,
@@ -385,11 +385,11 @@
       {
         "name": "SAIC_surround_camera_right",
         "type": "camera",
-        "topic": "/SAIC_surround_camera_right/compressed",
+        "topic": "SAIC_surround_camera_right",
         "width": 1280,
         "height": 960,
         "fov": 190,
-        "model": "omini-directional",
+        "model": "omni-directional",
         "distortions": [
           0.10916068908262747,
           0.000910122161833859,
@@ -425,11 +425,11 @@
       {
         "name": "SAIC_surround_camera_back",
         "type": "camera",
-        "topic": "/SAIC_surround_camera_back/compressed",
+        "topic": "SAIC_surround_camera_back",
         "width": 1280,
         "height": 960,
         "fov": 190,
-        "model": "omini-directional",
+        "model": "omni-directional",
         "distortions": [
           0.12046050739659159,
           -0.013033493209337315,
@@ -465,11 +465,11 @@
       {
         "name": "SAIC_surround_camera_left",
         "type": "camera",
-        "topic": "/SAIC_surround_camera_left/compressed",
+        "topic": "SAIC_surround_camera_left",
         "width": 1280,
         "height": 960,
         "fov": 190,
-        "model": "omini-directional",
+        "model": "omni-directional",
         "distortions": [
           0.12308319517895507,
           -0.005823453995337008,
@@ -562,7 +562,7 @@
       "rear_wheel_distance": 1.625,
       "axle_height": 0.35,
       "delay": 0,
-      "scale": 0.277778
+      "scale": 0.00868055
     }
   },
   "comment": "v3 fix a bug of senser to device."
