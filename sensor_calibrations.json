@@ -441,7 +441,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 28,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.3222,
           0.1091,
@@ -480,7 +480,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 60,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.4904,
           0.2259,
@@ -519,7 +519,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 120,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.3374,
           0.1182,
@@ -558,7 +558,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 100,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.3443,
           0.1248,
@@ -597,7 +597,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 100,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.3454,
           0.122,
@@ -636,7 +636,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 60,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.5295,
           0.2949,
@@ -675,7 +675,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 100,
-        "model": "pinhole-directional",
+        "model": "pinhole",
         "distortions": [
           -0.3449,
           0.1248,
@@ -714,7 +714,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 100,
-        "model": "pinhole-directional",
+        "model": "pinhole/",
         "distortions": [
           -0.3454,
           0.122,
