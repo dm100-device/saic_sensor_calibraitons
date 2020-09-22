@@ -277,7 +277,7 @@
       {
         "name": "SAIC_surround_camera_front",
         "type": "camera",
-        "topic": "SAIC_surround_camera_front",
+        "topic": "/SAIC_surround_camera_front/compressed",
         "width": 1280,
         "height": 960,
         "fov": 190,
@@ -317,7 +317,7 @@
       {
         "name": "SAIC_surround_camera_right",
         "type": "camera",
-        "topic": "SAIC_surround_camera_right",
+        "topic": "/SAIC_surround_camera_right/compressed",
         "width": 1280,
         "height": 960,
         "fov": 190,
@@ -357,7 +357,7 @@
       {
         "name": "SAIC_surround_camera_back",
         "type": "camera",
-        "topic": "SAIC_surround_camera_back",
+        "topic": "/SAIC_surround_camera_back/compressed",
         "width": 1280,
         "height": 960,
         "fov": 190,
@@ -397,7 +397,7 @@
       {
         "name": "SAIC_surround_camera_left",
         "type": "camera",
-        "topic": "SAIC_surround_camera_left",
+        "topic": "/SAIC_surround_camera_left/compressed",
         "width": 1280,
         "height": 960,
         "fov": 190,
@@ -435,9 +435,9 @@
         ]
       },
       {
-        "name": "SAIC_pagesus_camera_front_28",
+        "name": "SAIC_pegasus_camera_front_28",
         "type": "camera",
-        "topic": "/SAIC_pagesus_camera_front_28",
+        "topic": "/SAIC_pegasus_camera_front_28/compressed",
         "width": 1920,
         "height": 1208,
         "fov": 28,
@@ -474,9 +474,9 @@
         ]
       },
       {
-        "name": "SAIC_pagesus_camera_front_60",
+        "name": "SAIC_pegasus_camera_front_60",
         "type": "camera",
-        "topic": "/SAIC_pagesus_camera_front_60",
+        "topic": "/SAIC_pegasus_camera_front_60/compressed",
         "width": 1920,
         "height": 1208,
         "fov": 60,
@@ -513,9 +513,9 @@
         ]
       },
       {
-        "name": "SAIC_pagesus_camera_front_120",
+        "name": "SAIC_pegasus_camera_front_120",
         "type": "camera",
-        "topic": "/SAIC_pagesus_camera_front_120",
+        "topic": "/SAIC_pegasus_camera_front_120/compressed",
         "width": 1920,
         "height": 1208,
         "fov": 120,
@@ -552,9 +552,9 @@
         ]
       },
       {
-        "name": "SAIC_pagesus_camera_right_front_100",
+        "name": "SAIC_pegasus_camera_right_front_100",
         "type": "camera",
-        "topic": "/SAIC_pagesus_camera_right_front_100",
+        "topic": "/SAIC_pegasus_camera_right_front_100/compressed",
         "width": 1920,
         "height": 1208,
         "fov": 100,
@@ -591,9 +591,9 @@
         ]
       },
       {
-        "name": "SAIC_pagesus_camera_right_rear_100",
+        "name": "SAIC_pegasus_camera_right_rear_100",
         "type": "camera",
-        "topic": "/SAIC_pagesus_camera_right_rear_100",
+        "topic": "/SAIC_pegasus_camera_right_rear_100/compressed",
         "width": 1920,
         "height": 1208,
         "fov": 100,
@@ -630,9 +630,9 @@
         ]
       },
       {
-        "name": "SAIC_pagesus_camera_rear_60",
+        "name": "SAIC_pegasus_camera_rear_60",
         "type": "camera",
-        "topic": "/SAIC_pagesus_camera_rear_60",
+        "topic": "/SAIC_pegasus_camera_rear_60/compressed",
         "width": 1920,
         "height": 1208,
         "fov": 60,
@@ -669,9 +669,9 @@
         ]
       },
       {
-        "name": "SAIC_pagesus_camera_left_front_100",
+        "name": "SAIC_pegasus_camera_left_front_100",
         "type": "camera",
-        "topic": "/SAIC_pagesus_camera_left_front_100",
+        "topic": "/SAIC_pegasus_camera_left_front_100/compressed",
         "width": 1920,
         "height": 1208,
         "fov": 100,
@@ -708,9 +708,9 @@
         ]
       },
       {
-        "name": "SAIC_pagesus_camera_left_rear_100",
+        "name": "SAIC_pegasus_camera_left_rear_100",
         "type": "camera",
-        "topic": "/SAIC_pagesus_camera_left_rear_100",
+        "topic": "/SAIC_pegasus_camera_left_rear_100/compressed",
         "width": 1920,
         "height": 1208,
         "fov": 100,
