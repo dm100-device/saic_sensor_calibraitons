@@ -714,7 +714,7 @@
         "width": 1920,
         "height": 1208,
         "fov": 100,
-        "model": "pinhole/",
+        "model": "pinhole",
         "distortions": [
           -0.3454,
           0.122,
