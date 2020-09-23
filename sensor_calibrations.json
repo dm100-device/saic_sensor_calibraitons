@@ -281,7 +281,7 @@
         "width": 1280,
         "height": 960,
         "fov": 190,
-        "model": "omni-directional",
+        "model": "opencv-fisheye",
         "distortions": [
           0.12126487514143602,
           -0.005807907453767504,
@@ -321,7 +321,7 @@
         "width": 1280,
         "height": 960,
         "fov": 190,
-        "model": "omni-directional",
+        "model": "opencv-fisheye",
         "distortions": [
           0.10916068908262747,
           0.000910122161833859,
@@ -361,7 +361,7 @@
         "width": 1280,
         "height": 960,
         "fov": 190,
-        "model": "omni-directional",
+        "model": "opencv-fisheye",
         "distortions": [
           0.12046050739659159,
           -0.013033493209337315,
@@ -401,7 +401,7 @@
         "width": 1280,
         "height": 960,
         "fov": 190,
-        "model": "omni-directional",
+        "model": "opencv-fisheye",
         "distortions": [
           0.12308319517895507,
           -0.005823453995337008,
